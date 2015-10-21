@@ -1,5 +1,7 @@
 #include "largestInteger.h"
 
+//Problem Description: Given a list of n integers, find the largest integer in the list.
+
 /*Returns the largest integer in a list.*/
 int largestInteger(list<int> * listPtr)
 {
